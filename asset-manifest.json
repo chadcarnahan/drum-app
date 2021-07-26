@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/drum-app/static/css/main.23bdc98a.chunk.css",
+    "main.js": "/drum-app/static/js/main.4d072a4c.chunk.js",
+    "main.js.map": "/drum-app/static/js/main.4d072a4c.chunk.js.map",
+    "runtime-main.js": "/drum-app/static/js/runtime-main.31174663.js",
+    "runtime-main.js.map": "/drum-app/static/js/runtime-main.31174663.js.map",
+    "static/js/2.70fb586f.chunk.js": "/drum-app/static/js/2.70fb586f.chunk.js",
+    "static/js/2.70fb586f.chunk.js.map": "/drum-app/static/js/2.70fb586f.chunk.js.map",
+    "index.html": "/drum-app/index.html",
+    "static/css/main.23bdc98a.chunk.css.map": "/drum-app/static/css/main.23bdc98a.chunk.css.map",
+    "static/js/2.70fb586f.chunk.js.LICENSE.txt": "/drum-app/static/js/2.70fb586f.chunk.js.LICENSE.txt",
+    "static/media/A.09be3911.wav": "/drum-app/static/media/A.09be3911.wav",
+    "static/media/C.5df849e9.wav": "/drum-app/static/media/C.5df849e9.wav",
+    "static/media/D.d3d4b521.wav": "/drum-app/static/media/D.d3d4b521.wav",
+    "static/media/E.1acc793c.wav": "/drum-app/static/media/E.1acc793c.wav",
+    "static/media/Q.235f2b71.wav": "/drum-app/static/media/Q.235f2b71.wav",
+    "static/media/S.bd82fbcc.wav": "/drum-app/static/media/S.bd82fbcc.wav",
+    "static/media/W.f80b45f2.wav": "/drum-app/static/media/W.f80b45f2.wav",
+    "static/media/X.d13081bf.wav": "/drum-app/static/media/X.d13081bf.wav",
+    "static/media/Z.a2b38271.wav": "/drum-app/static/media/Z.a2b38271.wav",
+    "static/media/index.css": "/drum-app/static/media/digital.ae951a18.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31174663.js",
+    "static/js/2.70fb586f.chunk.js",
+    "static/css/main.23bdc98a.chunk.css",
+    "static/js/main.4d072a4c.chunk.js"
+  ]
+}
