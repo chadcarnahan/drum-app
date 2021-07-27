@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/drum-app/static/css/main.23bdc98a.chunk.css",
-    "main.js": "/drum-app/static/js/main.4d072a4c.chunk.js",
-    "main.js.map": "/drum-app/static/js/main.4d072a4c.chunk.js.map",
+    "main.js": "/drum-app/static/js/main.7d9bb22e.chunk.js",
+    "main.js.map": "/drum-app/static/js/main.7d9bb22e.chunk.js.map",
     "runtime-main.js": "/drum-app/static/js/runtime-main.31174663.js",
     "runtime-main.js.map": "/drum-app/static/js/runtime-main.31174663.js.map",
-    "static/js/2.70fb586f.chunk.js": "/drum-app/static/js/2.70fb586f.chunk.js",
-    "static/js/2.70fb586f.chunk.js.map": "/drum-app/static/js/2.70fb586f.chunk.js.map",
+    "static/js/2.a2f52991.chunk.js": "/drum-app/static/js/2.a2f52991.chunk.js",
+    "static/js/2.a2f52991.chunk.js.map": "/drum-app/static/js/2.a2f52991.chunk.js.map",
     "index.html": "/drum-app/index.html",
     "static/css/main.23bdc98a.chunk.css.map": "/drum-app/static/css/main.23bdc98a.chunk.css.map",
-    "static/js/2.70fb586f.chunk.js.LICENSE.txt": "/drum-app/static/js/2.70fb586f.chunk.js.LICENSE.txt",
+    "static/js/2.a2f52991.chunk.js.LICENSE.txt": "/drum-app/static/js/2.a2f52991.chunk.js.LICENSE.txt",
     "static/media/A.09be3911.wav": "/drum-app/static/media/A.09be3911.wav",
     "static/media/C.5df849e9.wav": "/drum-app/static/media/C.5df849e9.wav",
     "static/media/D.d3d4b521.wav": "/drum-app/static/media/D.d3d4b521.wav",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.31174663.js",
-    "static/js/2.70fb586f.chunk.js",
+    "static/js/2.a2f52991.chunk.js",
     "static/css/main.23bdc98a.chunk.css",
-    "static/js/main.4d072a4c.chunk.js"
+    "static/js/main.7d9bb22e.chunk.js"
   ]
 }
